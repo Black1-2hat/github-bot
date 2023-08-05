@@ -18,5 +18,6 @@ const makeCommit =(n)=>{
         makeCommit.bind(this,--n));
     });
 //git commit --date''
+    //done for another achievment::
 }
 makeCommit(100);
